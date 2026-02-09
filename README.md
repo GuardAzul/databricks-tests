@@ -1,0 +1,1 @@
+Proyecto con el que se busca explorar y seguir paso a paso el libro _Databricks Certified Data Engineer Associate Study Guide (for Raymond Rhine)_, esto con la ayuda de los vídeos de "Pildoras de programación"
